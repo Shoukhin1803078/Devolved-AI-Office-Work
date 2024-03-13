@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 24 12:55:52 2019
 
-@author: krish.naik
+@author: Md Al Amin Tokder 
 """
 import nltk
 

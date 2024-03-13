@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  2 22:19:40 2019
 
-@author: Md Al Amin Tokder 
-"""
 
 import nltk
 
